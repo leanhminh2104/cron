@@ -1,0 +1,8 @@
+[
+  "https://smm.dichvusale.io.vn/api/v1/payment/MBBank",
+  "https://smm.dichvusale.io.vn/public/api/v1/price/smm",
+  "https://smm.dichvusale.io.vn/public/api/v1/order/refund",
+  "https://smm.dichvusale.io.vn/public/api/v1/status/order",
+  "https://smm.dichvusale.io.vn/public/api/v1/payment/Mbbank",
+  "https://smm.dichvusale.io.vn/public/api/v1/recharge/bill"
+]
